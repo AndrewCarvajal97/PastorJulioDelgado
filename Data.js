@@ -1,5 +1,5 @@
 export const Logo ={
-    ruta:"../img/imagenLogoPatorJulioTransparente.png",
+    ruta:"./img/imagenLogoPatorJulioTransparente.png",
     imagen:"imagenLogoPatorJulioTransparente",
     alt:"Logo de la compañia actualmente"
 }
